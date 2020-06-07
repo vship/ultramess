@@ -1,1 +1,1 @@
-print('hello_from_branch')
+print('hello_from_remote')
