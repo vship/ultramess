@@ -1,1 +1,1 @@
-print('hello_from_local')
+print('hello_from_remote')
