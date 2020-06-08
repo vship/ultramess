@@ -1,1 +1,1 @@
-print('hello_from_master')
+print('hello_from_merge')
